@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "pizza": "Hawai",
+        "Evjarat": "Sor",
+        "Extra": "Kukorica",
+        "Ar": 3500
+    },
+    {
+        "id": "2",
+        "pizza": "Magyaros",
+        "Evjarat": "Cola",
+        "Extra": "Annasz",
+        "Ar": 2500
+    },
+    {
+        "id": "3",
+        "pizza": "Kolbaszos",
+        "Ital": "7up",
+        "Extra": "Kolbasz",
+        "Ar": 2500
+    },
+    {
+        "id": "4",
+        "pizza": "Sokas",
+        "Ital": "Fanta",
+        "Extra": "Szalami",
+        "Ar": 2500
+    },
+    {
+        "id": "5",
+        "pizza": "Olasz",
+        "Ital": "Bor",
+        "Extra": "Olivabogyó",
+        "Ar": 1800
+    },
+    {
+        "id": "6",
+        "pizza": "4ital",
+        "Ital": "AlmaLé",
+        "Extra": "Tonhal",
+        "Ar": 2200
+    }
+]
