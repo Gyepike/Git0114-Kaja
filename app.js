@@ -3,7 +3,7 @@ const result = document.querySelector(".result");
 
 
 window.addEventListener("load", async () => {
-    const res = await fetch("cars.json");
+    const res = await fetch("pizza.json");
     const data = await res.json();
     console.log(data)
 
@@ -12,7 +12,7 @@ window.addEventListener("load", async () => {
     data.map(car => {
         ouput += `
                  <div class= "car">
-                     <h2>Maraka : ${car.marka} </h2>
+                     <h2>Pizza : ${car.pizza} </h2>
                  </div>
             `
             ;
